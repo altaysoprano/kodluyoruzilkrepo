@@ -32,4 +32,4 @@ istediğinizi tartışmak için bir konu açınız.
 [MIT]
 
 ##Resim
-[Resim](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+![Resim](C:\Users\user\Downloads\kodluyoruz.png)
