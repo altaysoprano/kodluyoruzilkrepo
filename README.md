@@ -32,4 +32,4 @@ istediğinizi tartışmak için bir konu açınız.
 [MIT]
 
 ##Resim
-![Proje resmi:](https://www.hizliresim.com/olap82m)
+![Proje resmi:](https://i.hizliresim.com/s5qdnzz.png)
