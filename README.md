@@ -32,4 +32,4 @@ istediğinizi tartışmak için bir konu açınız.
 [MIT]
 
 ##Resim
-![Resim](C:\Users\user\Downloads\kodluyoruz.png)
+![Resim]("C:\Users\user\kodluyoruzilkrepo\kodluyoruz.png")
