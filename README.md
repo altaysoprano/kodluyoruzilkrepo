@@ -32,4 +32,4 @@ istediğinizi tartışmak için bir konu açınız.
 [MIT]
 
 ##Resim
-![Resim]("C:\Users\user\kodluyoruzilkrepo\kodluyoruz.png")
+![Proje resmi:](https://www.hizliresim.com/olap82m)
