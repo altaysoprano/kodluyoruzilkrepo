@@ -31,5 +31,5 @@ istediğinizi tartışmak için bir konu açınız.
 
 [MIT]
 
-##Resim
+## Resim
 ![Proje resmi:](https://i.hizliresim.com/s5qdnzz.png)
